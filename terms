@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms and Conditions - Poem Ai</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+      background-color: #fafafa;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    a {
+      color: #007aff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+<h1>Terms and Conditions</h1>
+
+<p>Welcome to <strong>Poem Ai</strong>. These Terms and Conditions outline the rules and regulations for using our app. By accessing or using the app, you agree to comply with and be bound by the following terms.</p>
+
+<h2>1. Introduction</h2>
+<p>Poem Ai is an AI-powered creative platform that enables users to generate, save, and share poems. These terms apply to all users of the app and related services.</p>
+
+<h2>2. Eligibility</h2>
+<ul>
+  <li>You must be at least 13 years old to use Poem Ai.</li>
+  <li>By using the app, you represent and warrant that you meet the age requirement and have the legal capacity to enter into these terms.</li>
+</ul>
+
+<h2>3. Use of the App</h2>
+<ul>
+  <li>Poem Ai is intended for personal and non-commercial use only.</li>
+  <li>You may not use the app for unlawful, offensive, or abusive content creation or sharing.</li>
+  <li>You are solely responsible for any content you generate and share through the app.</li>
+</ul>
+
+<h2>4. User Content and Ownership</h2>
+<ul>
+  <li>While the poems you generate are unique to your input, Poem Ai retains ownership of the underlying software, AI models, and platform.</li>
+  <li>You are free to use, share, or publish your generated poems for personal or commercial use, provided you do not claim ownership over the app’s technology.</li>
+</ul>
+
+<h2>5. Subscription and Billing</h2>
+<ul>
+  <li>Premium features are available via auto-renewable subscriptions.</li>
+  <li>Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period.</li>
+  <li>You may manage your subscription and auto-renewal preferences in your App Store account settings.</li>
+  <li>All payments are securely processed through Apple App Store or Google Play. Poem Ai does not store payment details.</li>
+</ul>
+
+<h2>6. Restoring Subscriptions</h2>
+<p>If you reinstall Poem Ai or switch devices, you can use the "Restore Purchase" option in the app settings. This allows you to regain access to previously purchased subscriptions without being charged again. Restoring is required to ensure users retain access to paid features across devices and installations.</p>
+
+<h2>7. Refunds</h2>
+<p>All purchases are final. For refunds, please contact Apple or Google support directly, as they manage the billing and refund processes.</p>
+
+<h2>8. Privacy Policy</h2>
+<ul>
+  <li>We respect your privacy. We collect minimal data required for improving app performance and functionality.</li>
+  <li>We do not sell or share your data with third parties.</li>
+  <li>To learn more, please review our <a href="https://codewithfadii.github.io/poem_generator_policies/privacy-policy.html" target="_blank">Privacy Policy</a>.</li>
+</ul>
+
+<h2>9. Prohibited Use</h2>
+<ul>
+  <li>You may not use Poem Ai to create or disseminate content that is illegal, threatening, harassing, or discriminatory.</li>
+  <li>Attempting to reverse-engineer or modify the app’s core functionality is strictly prohibited.</li>
+</ul>
+
+<h2>10. Termination</h2>
+<p>We reserve the right to suspend or terminate your access to Poem Ai at our discretion, without notice, for any conduct that violates these terms or is otherwise harmful to other users or the service.</p>
+
+<h2>11. Disclaimers</h2>
+<ul>
+  <li>Poem Ai is provided on an “as is” basis. We do not guarantee that the app will be error-free or uninterrupted.</li>
+  <li>We are not liable for any loss or damage resulting from your use of the app.</li>
+</ul>
+
+<h2>12. Modifications to the Terms</h2>
+<p>We may update these Terms and Conditions from time to time. We will notify users of significant changes via the app. Continued use after changes means you agree to the updated terms.</p>
+
+<h2>13. Contact Us</h2>
+<p>If you have questions or concerns about these terms, please contact us at:</p>
+<p><strong>Email:</strong> amirsohail@solinovation.com</p>
+
+<p>By using Poem Ai, you confirm that you have read, understood, and agreed to these Terms and Conditions.</p>
+</body>
+</html>
